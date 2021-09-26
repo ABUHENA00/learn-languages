@@ -1,0 +1,30 @@
+.member{
+    background-color: rgb(13, 68, 68);
+  width: 288px;
+  height: 400px;
+  margin-bottom: 9px;
+  padding: 10px;
+  border-radius: 10px;
+  color: rgb(218, 220, 221);
+  text-align: center;
+  line-height: 17px;
+ 
+
+}
+.member-img img{
+    width: 150px;
+  height: 110px;
+  border-radius: 80%;
+
+}
+
+
+  .btn-regular{
+    background-color: goldenrod;
+    width: 150px;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 5px;
+    cursor: pointer;
+}

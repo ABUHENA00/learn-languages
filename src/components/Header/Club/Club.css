@@ -1,0 +1,21 @@
+.club-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 20px;
+
+}
+
+.members-container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 5px;
+
+
+}
+.members-cart{
+    background-color: #766b80;
+  height: 490px;
+  padding: 10px;
+  border-radius: 10px;
+
+}

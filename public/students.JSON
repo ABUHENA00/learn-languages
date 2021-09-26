@@ -1,0 +1,74 @@
+[
+    {
+      "name": "Amir khan",
+      "Id": 1,
+      "post": "president",
+      "salary": 7000,
+      "age": 30,
+      "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?size=626&ext=jpg"
+    },
+    {
+      "name": "Abir khan",
+      "Id": 2,
+      "post": "vice-president",
+      "salary": 6000,
+      "age": 29,
+      "img": "https://i.pinimg.com/736x/3c/ca/8a/3cca8ad345d5bb1611befd76ba458026.jpg"
+    },
+    {
+      "name": "Sakib khan",
+      "Id": 3,
+      "post": "secretary",
+      "salary": 5500,
+      "age": 28,
+      "img": "https://thumbs.dreamstime.com/z/portrait-young-handsome-man-white-shirt-outdoor-portrait-young-handsome-man-white-shirt-outdoor-nice-appearance-131934608.jpg"
+    },
+    {
+      "name": "Sabbir khan",
+      "Id": 4,
+      "post": "joint-secretary",
+      "salary": 5000,
+      "age": 27,
+      "img": "https://media.istockphoto.com/photos/fit-man-standing-outdoors-in-a-city-picture-id1299360127?b=1&k=20&m=1299360127&s=170667a&w=0&h=1Rvw_UPTnj1LkB543cuCjiLM0xbIdjjin0rw6yaL8bc="
+    },
+    {
+      "name": "Mamun js",
+      "Id": 5,
+      "post": "general secretary ",
+      "salary": 4000,
+      "age": 31,
+      "img": "https://sa1s3optim.patientpop.com/assets/images/provider/photos/1888656.jpg"
+    },
+    {
+      "name": "Ratul ms",
+      "Id": 6,
+      "post": "publicity secretary",
+      "salary": 2000,
+      "age": 20,
+      "img": "https://image.shutterstock.com/image-photo/image-happy-brunette-man-wearing-260nw-1489874846.jpg"
+    },
+    {
+      "name": "Rakib Ds",
+      "Id": 7,
+      "post": "office secretary",
+      "salary": 3000,
+      "age": 33,
+      "img": "https://media.istockphoto.com/photos/mature-mixed-race-business-man-picture-id1059661424?k=20&m=1059661424&s=612x612&w=0&h=CLL4tto10GPo1gtMR9c-kPmf8VkvodjvTyqvtEuTLtg="
+    },
+    {
+      "name": "Amir Hamza",
+      "Id": 8,
+      "post": "krida secretary",
+      "salary": 700,
+      "age": 23,
+      "img": "https://static.aadi.com.bd/__sized__/products/13122-26337-t-shirt-black-white-ideal-choice-bd-55908-2-crop-c0-5__0-5-400x500-70.jpg"
+    },
+    {
+      "name": "Tutul kabir",
+      "Id": 9,
+      "post": "member",
+      "salary": 500,
+      "age": 22,
+      "img": "https://freeland.com.bd/product_images/06072021130839_7279.jpg"
+    }
+  ]
